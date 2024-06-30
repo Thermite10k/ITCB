@@ -13,9 +13,9 @@
 # How to use:
 
 ```python
-# open "floyed-Steinberg dishering.py"
-# find th efollowing line
+# open "floyed-Steinberg dishering.py" with the text editor of your choice
+# edit the line 54 so it points to the desired file
 image = Image.open("./Static/YOURFILE.jpg").convert("L")
-# make sure the path is correct
+# make sure the path is correct, you'll also need to install pandas and jit
 #RUN!
 ```
